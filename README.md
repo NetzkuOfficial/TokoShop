@@ -1,4 +1,4 @@
-# TokoShop
+# TokoShop Telegram bot ppob dan topup game
 Toko shop, awalnya merupakan program untuk jualan yang di pesan oleh berbagai orang. Per pesanan di hargai 250rb - 350rb, pengembangan proyek terganggu di karenakan biaya yang di bayarkan kurang. Walaupun sudah banyak yang berkontribusi membayar jasa untuk project ini, tapi pengembanganya terus masih belum usai. Sejak Era QR payment Elma ID.
 
 Fitur awal hanya di khususkan untuk menjual akun Premium, E-Book Novel, Lisensi Software, Documents, Arsip, Video Footage, Art, dan karya digital lain. Dengan mengungsung konsep sistem cerdas yaitu cek pembayaran otomatis. Karena cuma buat jual produk digital, pryek nampak kurang menarik, dan gak semua orang punya produk digital mereka.
