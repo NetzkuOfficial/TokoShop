@@ -11,7 +11,7 @@ Dan saya udah mengupdate banyak fitur dan bug dari bot ini. Beberapa perbaikan a
 
 Beberapa perbaikan tidak saya tulis tanggalnya karena wkatu kerja juga gak nyatet. Release sekarang :
 
-1. Perbaikan fitur, pengguna bot bisa menambahkan margin keuntungan sendiri per SKU produk selain  menggunakan pendekatan harga otomatis by kategori.
+1. Perbaikan fitur, Owner bot bisa menambahkan margin keuntungan sendiri per SKU produk selain  menggunakan pendekatan harga otomatis by kategori.
 2. Perbaikan fitur TOKO : Katalog di hilangkan di ganti kategori, penambahan parameter harga beli, dan penggunaan fitur stock per sku.
 3. Penambahan list daftar server id ( khusus produk netzku pulsa ), tujuanya agar penggguna yang membeli produk topup game bisa memilih server secara langsung.
 4. Perbaikan desain halaman dashboard panel, agar menampilkan angka yang penting contoh saldo digiflazz, saldo netzku, dan omzet selama 12 bulan tarkhir.
