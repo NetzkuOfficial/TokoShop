@@ -23,4 +23,6 @@ Beberapa perbaikan tidak saya tulis tanggalnya karena wkatu kerja juga gak nyate
 11. Program afffiliate untuk produk ini di turunkan jadi 5% dan harga produk dari awalnya 35rb di turunkan jadi 25 ribu ( hanya instalasi saja )
 12. Perubahan pada nama perintah sebelumnya kelolah toko jadi Managements
 13. Penambahan fitur untuk download rekapan dari bot, hanya untuk download rekapan bulan ini via perintah Rekapan
-14. Update lain akan di sertakan di sini.....
+14. Update perbaikan ID, sebelumnya ada celah bug jika SSID bot kalian kesebar orang lain bahkan bisa masuk ke dashboard dengan akun mereka. Walau gak bisa transaksi tetep aja bisa lihat riwayat dashborad botmu.
+15. Perbaikan inkonsistensi history saldo, riwayat saldo di catat secara penuh karena sebelumnya hanya di catat apabila transaksi berhasil. Tapi akibat delay proses yang lama membuat urutan data gak konsisten.
+16. Sekarang transaksi reffund akan ada catatan historycal saldo nya untuk lebih waspada terhadap pengurangan dan catatan yang gak konsisten.
